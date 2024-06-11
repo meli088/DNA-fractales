@@ -1,0 +1,45 @@
+Tous les fichiers Genbank utilisés lors de la présentation : 
+Provenant de Monsieur Patrick Fuchs et NCBI 
+
+Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome
+GenBank: BA000017.4
+
+Saccharomyces cerevisiae S288C chromosome I, complete sequence
+NCBI Reference Sequence: NC_001133.9
+
+Human herpesvirus 1 strain 17, complete genome
+NCBI Reference Sequence: NC_001806.2
+
+Drosophila melanogaster chromosome 4
+NCBI Reference Sequence: NC_004353.4
+
+Macacine herpesvirus 1, complete genome
+NCBI Reference Sequence: NC_004812.1
+
+Escherichia coli str. K-12 substr. MG1655, complete genome
+GenBank: U00096.3
+
+Candida glabrata strain CBS138 chromosome G complete sequence
+GenBank: CR380953.1
+
+Fichier de comparaison pour vérifier résultats : 
+Homo sapiens mitochondrion, complete genome
+GenBank: EU810403.1
+Article utilisé :  Löchel et al., Computational and Structural Biotechnology Journal, 19, 6263-6271 (2021)
+(doi: 10.1016/j.csbj.2021.11.008)
+
+Fichiers des différentes souches du Covid et SarsCov2 : 
+Human coronavirus 229E strain 229E/human/USA/933-40/1993, complete genome
+GenBank: KF514433.1
+
+Human coronavirus HKU1 strain HKU1/human/USA/HKU1-18/2010, complete genome
+GenBank: KF430201.1
+
+Human coronavirus NL63 strain NL63/human/USA/891-4/1989, complete genome
+GenBank: KF530114.1
+
+Human coronavirus OC43 strain OC43/human/USA/971-5/1997, complete genome
+GenBank: KF530099.1
+
+Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+NCBI Reference Sequence: NC_045512.2
